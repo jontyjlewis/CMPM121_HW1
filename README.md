@@ -26,3 +26,13 @@ Display Fridge = Prefab from CoffeeShopStarterPack (2)
 Food = Prefab from CoffeeShopStarterPack (2)  
 Microwave = Prefab from CoffeeShopStarterPack (2)  
 Plants = Prefab from CoffeeShopStarterPack (2)
+
+## Asset Pack Links
+Skybox - https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633  
+Apartment Kit - https://assetstore.unity.com/packages/3d/environments/apartment-kit-124055  
+CoffeeShop Starter Pack - https://assetstore.unity.com/packages/3d/props/coffeeshop-starter-pack-160914  
+Wooden Floor Materials - https://assetstore.unity.com/packages/2d/textures-materials/wood/yughues-free-wooden-floor-materials-13213  
+
+
+## Inspiration sketch
+https://www.artstation.com/artwork/48mrwL
